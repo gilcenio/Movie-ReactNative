@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245240941822",
+    "project_id": "tvmovies-f3b4e",
+    "storage_bucket": "tvmovies-f3b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245240941822:android:d3c027037f926eb21fa9af",
+        "android_client_info": {
+          "package_name": "com.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245240941822-5d1osf6kkq4mtpevjh6419ou7g7663ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhUW3wdZ22xZIdnMGf1gaQavj3o3bl17M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245240941822-5d1osf6kkq4mtpevjh6419ou7g7663ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
